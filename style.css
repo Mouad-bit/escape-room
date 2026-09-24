@@ -1,0 +1,36 @@
+body {
+    background-image: url('./images.jfif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: black;
+    color: #eeeeee;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+.room {
+    color: yellow;
+    width: 600px;
+    margin: 80px auto;
+    padding: 40px;
+    border-radius: 10px;
+    font-size: 3.5vh;
+    font-family:cursive;
+}
+.button {
+display: block;
+width: 350px;
+margin: 15px auto;
+padding: 15px;
+background-color: yellow;
+color: black;
+text-decoration: none;
+border-radius: 8px;
+}
+.button:hover {
+background-color: #cccccc;
+}
+
+p{
+    color: white;
+}
